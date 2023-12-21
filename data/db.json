@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "title": "Bag",
+      "body": "Stylish bag",
+      "price": "1000",
+      "id": 1
+    },
+    {
+      "title": "Laptop",
+      "body": "High-performance laptop",
+      "price": "1500",
+      "id": 2
+    },
+    {
+      "title": "Watch",
+      "body": "Elegant wristwatch",
+      "price": "500",
+      "id": 3
+    },
+    {
+      "title": "Sunglasses",
+      "body": "UV protection sunglasses",
+      "price": "200",
+      "id": 4
+    },
+    {
+      "title": "Headphones",
+      "body": "Wireless noise-canceling headphones",
+      "price": "300",
+      "id": 5
+    },
+    {
+      "title": "Backpack",
+      "body": "Durable hiking backpack",
+      "price": "120",
+      "id": 6
+    },
+    {
+      "title": "Smartphone",
+      "body": "Latest smartphone model",
+      "price": "800",
+      "id": 7
+    },
+    {
+      "title": "Running Shoes",
+      "body": "Lightweight running shoes",
+      "price": "80",
+      "id": 8
+    },
+    {
+      "title": "Camera",
+      "body": "Professional DSLR camera",
+      "price": "2000",
+      "id": 9
+    },
+    {
+      "title": "Desk Chair",
+      "body": "Ergonomic office desk chair",
+      "price": "150",
+      "id": 10
+    },
+    {
+      "title": "Gaming Console",
+      "body": "Next-gen gaming console",
+      "price": "400",
+      "id": 11
+    },
+    {
+      "title": "Coffee Maker",
+      "body": "Automatic drip coffee maker",
+      "price": "60",
+      "id": 12
+    },
+    {
+      "title": "Fitness Tracker",
+      "body": "Heart rate monitor fitness tracker",
+      "price": "100",
+      "id": 13
+    },
+    {
+      "title": "Winter Jacket",
+      "body": "Insulated waterproof winter jacket",
+      "price": "120",
+      "id": 14
+    },
+    {
+      "title": "Bluetooth Speaker",
+      "body": "Portable Bluetooth speaker",
+      "price": "50",
+      "id": 15
+    },
+    {
+      "title": "Tablet",
+      "body": "Slim and lightweight tablet",
+      "price": "300",
+      "id": 16
+    },
+    {
+      "title": "Cookware Set",
+      "body": "Non-stick cookware set",
+      "price": "70",
+      "id": 17
+    },
+    {
+      "title": "Hiking Boots",
+      "body": "Waterproof hiking boots",
+      "price": "120",
+      "id": 18
+    },
+    {
+      "title": "Dumbbell Set",
+      "body": "Adjustable dumbbell weight set",
+      "price": "150",
+      "id": 19
+    },
+    {
+      "title": "Desk Lamp",
+      "body": "LED desk lamp with adjustable brightness",
+      "price": "40",
+      "id": 20
+    },
+    {
+      "title": "new",
+      "body": "new",
+      "price": "10000",
+      "id": 22
+    }
+  ]
+}
