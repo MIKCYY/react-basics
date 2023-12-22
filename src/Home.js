@@ -4,7 +4,7 @@ import useFetch from "./useFetch";
 
 const Home = () => {
     // let name = 'marionette';
-    const{data: items, isPending, error} = useFetch('http://localhost:8000/items');
+    const{data: items, isPending, error} = useFetch('http://localhost:8000/products');
     return ( 
         <div className="home">
         {error && <div> {error}</div>}

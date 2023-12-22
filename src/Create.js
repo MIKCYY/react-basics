@@ -13,7 +13,7 @@ const Create = () => {
       const item = {title, body, price};
       console.log(item);
       setIsPending(true);
-      fetch('http://localhost:8000/items', {
+      fetch('http://localhost:8000/products', {
          method:'POST',
          headers: {"Content-Type": "application/json"},
          body: JSON.stringify(item)

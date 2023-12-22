@@ -1,0 +1,6 @@
+const dbConfig = {
+  host: 'localhost',
+  user: 'root',
+  password: '@Pass#123',
+  database: 'ecom'
+};

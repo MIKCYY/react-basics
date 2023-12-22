@@ -3,10 +3,10 @@ import useFetch from "./useFetch";
 
 const ItemDetails = () => {
     const { id } = useParams();
-    const { data: item, error, isPending } = useFetch('http://localhost:8000/items/' + id);
+    const { data: item, error, isPending } = useFetch('http://localhost:8000/products/' + id);
     const history = useHistory();
     const handleDelete = () => {
-        fetch('http://localhost:8000/items/' + item.id, {
+        fetch('http://localhost:8000/products/' + item.id, {
             method:'DELETE',
          }).then(() => {
             console.log('item deleted');
